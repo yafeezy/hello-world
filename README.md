@@ -1,2 +1,3 @@
 # hello-world
-frist repo learning things
+frist repo learnin things
+Gonna take over the world
